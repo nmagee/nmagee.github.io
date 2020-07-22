@@ -1,7 +1,7 @@
-## About Me
+## About
 
-I am a Solution Architect in the University of Virginia's Research Computing group. Most of my work centers on designing and building systems that support
-research across academic disciplines. Lately that work has leaned heavily on containers, CI/CD, and orchestration.
+I am a Solution Architect in the University of Virginia's [Research Computing](https://www.rc.virginia.edu/) group. Most of my work centers on designing and building systems that support
+research across academic disciplines. Lately that work has focused heavily on containers, CI/CD, and orchestration for bioinformatic and genomic research.
 
 ## Teaching
 
